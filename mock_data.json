@@ -1,0 +1,46 @@
+{
+  "sprint_info": {
+    "name": "Sprint 24.1 - Mobile Checkout",
+    "day": 7,
+    "total_days": 10,
+    "goal": "Ship new Apple Pay integration"
+  },
+  "tickets": [
+    {
+      "id": "MOB-101",
+      "title": "Design Apple Pay Button",
+      "assignee": "Sarah",
+      "status": "Done",
+      "git_commits": 12,
+      "risk_score": 10,
+      "risk_reason": "None"
+    },
+    {
+      "id": "MOB-102",
+      "title": "API Integration for Payment Gateway",
+      "assignee": "Mike",
+      "status": "In Progress",
+      "git_commits": 8,
+      "risk_score": 25,
+      "risk_reason": "Slightly behind schedule"
+    },
+    {
+      "id": "MOB-104",
+      "title": "Handle Payment Success Webhook",
+      "assignee": "Alex",
+      "status": "In Progress",
+      "git_commits": 0,
+      "risk_score": 95,
+      "risk_reason": "Zero Git activity in 4 days + Calendar is full"
+    },
+    {
+      "id": "MOB-105",
+      "title": "Update Checkout UI",
+      "assignee": "Jessica",
+      "status": "Todo",
+      "git_commits": 0,
+      "risk_score": 5,
+      "risk_reason": "Planned for next week"
+    }
+  ]
+}
