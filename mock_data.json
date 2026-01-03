@@ -9,7 +9,7 @@
     {
       "id": "MOB-101",
       "title": "Design Apple Pay Button",
-      "assignee": "Sarah",
+      "assignee": "Ashish",
       "status": "Done",
       "git_commits": 12,
       "risk_score": 10,
@@ -18,7 +18,7 @@
     {
       "id": "MOB-102",
       "title": "API Integration for Payment Gateway",
-      "assignee": "Mike",
+      "assignee": "Nisha",
       "status": "In Progress",
       "git_commits": 8,
       "risk_score": 25,
@@ -27,7 +27,7 @@
     {
       "id": "MOB-104",
       "title": "Handle Payment Success Webhook",
-      "assignee": "Alex",
+      "assignee": "Utkarsh",
       "status": "In Progress",
       "git_commits": 0,
       "risk_score": 95,
@@ -36,7 +36,7 @@
     {
       "id": "MOB-105",
       "title": "Update Checkout UI",
-      "assignee": "Jessica",
+      "assignee": "Medini",
       "status": "Todo",
       "git_commits": 0,
       "risk_score": 5,
