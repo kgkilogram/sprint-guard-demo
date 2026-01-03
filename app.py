@@ -71,7 +71,7 @@ with st.sidebar:
 col1, col2 = st.columns([3, 1])
 
 with col1:
-    st.title("Good Morning, Jordan.")
+    st.title("Good Morning, Ketan.")
     st.write("Here is your daily intervention briefing.")
 
 with col2:
